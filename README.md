@@ -63,7 +63,8 @@ You can also pass a ✍️ raw CSS string if you prefer:
 ```javascript
 log("🔮 Direct CSS example", "color:purple;font-size:24px;font-weight:bold;text-decoration:underline");
 ```
-
+<img src="https://github.com/u4saif/color-it/blob/fef2eab04cbda91607f6c5ece04b7eee182b64c0/image.png" width="500px" height="400px" />
+ 
 ## 📜 License
 
 This project is licensed under the ⚖️ MIT License.
