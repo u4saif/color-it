@@ -1,0 +1,21 @@
+{
+  "name": "log101",
+  "version": "1.0.0",
+  "description": "Color the console with simple light weight npm package",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["console", "log", "styled-logging", "utility"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/u4saif/color-it.git"
+  },
+  "author": "Saifuddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/u4saif/color-it/issues"
+  },
+  "homepage": "https://github.com/u4saif/color-it#readme"
+}
